@@ -33,6 +33,7 @@
   * The presenter made the tutorial he created in a Jupyter Notebook and the files he uses in the tutorial available on GitHub. Forking that repository directly includes several other tutorials as well. I have downloaded the folder just for this tutorial here so you don't need to get the files from his repository.
   * Note that the presenter uses a technique to install Python packages from within Jupyter notebook which I understand to be problematic sometimes. I would not recommend following that practice unless you understand the complexities involved. I would stick to installing packages using Conda from the command line. However, should you wish to learn more, I found an article which you can read. https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
   * You can open the Jupyter Notebook file and run each code block as you go through the tutorial. You can follow along with the online version to see if your result match what he has online.
+  * **Important Note** This tutorial is a few years old, but it's still a very good introduction. A couple of commands have changed a bit since the tutorial was created so you may see a couple of errors. When I google errors in pandas, I use the term "Pandas [enter the text of the error]", and I can usually find an explanation/solution.
   
 ## Push your updated file to your GitHub repository
 
