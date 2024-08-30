@@ -21,6 +21,8 @@
   * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
 
 ## Open the repository Jupyter Notebook
+* (2024 update) You can open the notebook using Google Colab. Instructions are provided here: https://github.com/cmcntsh/OpenJupyterNBinGoogleColab
+* I'll leave older instructions in case you're running Jupyter on your own computer.
 * Open Jupyter Notebook on your machine.
 * In the Files tab you should see folders that match the folders on your machine (i.e. Desktop, Documents, Downloads). Navigate to your repository folder by clicking on the folder links. Open the .ipynb file in your repository by clicking on it.
 * When your repository workbook opens in your browser window, make sure you're using your assignment workbook with the new environment by going to Kernel - change kernel - select Basics
